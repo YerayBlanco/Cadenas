@@ -1,0 +1,7 @@
+C:\Users\yeray.blanco.aldao\source\repos\ProgramaCadena\ProgramaCadena\bin\Debug\ProgramaCadena.exe.config
+C:\Users\yeray.blanco.aldao\source\repos\ProgramaCadena\ProgramaCadena\bin\Debug\ProgramaCadena.exe
+C:\Users\yeray.blanco.aldao\source\repos\ProgramaCadena\ProgramaCadena\bin\Debug\ProgramaCadena.pdb
+C:\Users\yeray.blanco.aldao\source\repos\ProgramaCadena\ProgramaCadena\obj\Debug\ProgramaCadena.csproj.AssemblyReference.cache
+C:\Users\yeray.blanco.aldao\source\repos\ProgramaCadena\ProgramaCadena\obj\Debug\ProgramaCadena.csproj.CoreCompileInputs.cache
+C:\Users\yeray.blanco.aldao\source\repos\ProgramaCadena\ProgramaCadena\obj\Debug\ProgramaCadena.exe
+C:\Users\yeray.blanco.aldao\source\repos\ProgramaCadena\ProgramaCadena\obj\Debug\ProgramaCadena.pdb
